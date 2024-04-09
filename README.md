@@ -3,7 +3,7 @@ Team practice on CNN model classifying 12 Singaporean food categories.
 
 
 A requirement file "requirements.txt" is included if anyone prefers to run the code locally.
-How to use requirement file??
+How to use requirement file?? \
 Change to the directory you save the file then run the following command.
 
 `pip install -r requirements.txt`
