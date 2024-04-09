@@ -3,7 +3,7 @@
 
 
 A requirement file "requirements.txt" is included if anyone prefers to run the code locally.
-## **How to use requirement file??** \
+## **How to use requirement file??** 
 Before anything else, change to the directory you save the file then run the following command.
 
 `pip install -r requirements.txt`
